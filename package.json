@@ -1,6 +1,6 @@
 {
   "name": "@boldreports/javascript-reporting-extensions",
-  "version": "13.1.26",
+  "version": "5.2.34",
   "description": "The Bold Reports Extensions by Syncfusion contains scripts and themes for barcode report item to be integrated in JavaScript Report Viewer and JavaScript Report Designer for enterprise web development(HTML5)",
   "repository": {
     "type": "git",
